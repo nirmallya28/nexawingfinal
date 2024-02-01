@@ -7542,7 +7542,7 @@ const v = Fo.exports.jsx,
             className: "w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3f3e45]",
             children: [v("p", {
                 className: "font-poppins font-normal text-center text-[18px] leading-[27px] text-white",
-                children: "2022 HooBank. All Rights Reserved."
+                children: "2024 Nexawings. All Rights Reserved."
             }), v("div", {
                 className: "flex flex-row md:mt-0 mt-6",
                 children: Gu.map((e, n) => v("img", {
